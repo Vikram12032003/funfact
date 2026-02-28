@@ -1,2 +1,2 @@
-theis page is used to created login credientials
+this page is used to creat login credientials
 
